@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This is hello-world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "devdreamsolution-hello-world"
+  ],
+  "author": "devdreamsolution",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
